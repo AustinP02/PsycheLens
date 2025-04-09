@@ -388,6 +388,7 @@ def endingScreen(mic):
     mostDominantEmotion = getEmotion()
 
     # API key
+    openai.api_key = ''
     # Unfortunately, I cannot provide my API key for security reasons. Please use your own OpenAI API key.
 
     # Function to generate evaluation using OpenAI's ChatGPT API
