@@ -1,2 +1,3 @@
-# NASA-HUNCH-PsychEval
-Timothy &amp; Austin's NASA HUNCH Project. This is the Psychological Evaluation using AI
+# PsycheLens Overview
+
+This is a project my partner and I worked on for a competition called Nasa Hunch. The basis of the project was to create an app that would perform a psychological evaluation on an astronaut in space. First the application asks a series of standard psychological questions. After these required questions are answered the application scans someone's face and interprets their emotion based off their facial expression. While this scan is going on, they are required to answer another basic question of their psychological status for the day. When all of this is done, the data is sent to ChatGPT where GPT would send a psychological report back to the app. This whole application was done in python and uses a variety of libraries like OpenCV, DeepFace, Threading, and many others that make it work.
